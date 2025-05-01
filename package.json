@@ -14,6 +14,7 @@
 	"version": "1.0.0",
 	"description": "Callum's Training NPM Package",
 	"author": "Callum Carlyle",
+	"keywords": [ "freecodecamp", "training", "npm", "backend" ],
 	"license": "ISC",
 	"bugs": {
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
